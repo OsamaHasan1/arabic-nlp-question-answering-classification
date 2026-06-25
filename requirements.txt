@@ -1,0 +1,14 @@
+streamlit
+torch
+transformers
+requests
+pandas
+numpy
+scikit-learn
+matplotlib
+nltk
+pyarabic
+emoji
+sentencepiece
+accelerate
+jupyter
