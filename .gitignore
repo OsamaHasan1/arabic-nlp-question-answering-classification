@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.env
+venv/
+.venv/
+
+# Streamlit secrets
+secrets.toml
+.streamlit/secrets.toml
+
+# Large model folders
+arabert_classification_model/
+qwen_qa_model/
+mt5_qa_final_v2/
+outputs/
+checkpoints/
+
+# Model files
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+
+# Large compressed files
+*.zip
+*.rar
+*.7z
+
+# System files
+.DS_Store
+Thumbs.db
